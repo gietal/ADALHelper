@@ -1,0 +1,18 @@
+
+# Build results
+
+[Rr]elease/
+[Dd]ebug/
+x64/
+cmake-out/
+[Bb]in/
+[Oo]bj/
+temp/
+build/
+
+# xcode specific ignores
+xcuserdata
+xcshareddata
+
+Carthage
+Cartfile.resolved
